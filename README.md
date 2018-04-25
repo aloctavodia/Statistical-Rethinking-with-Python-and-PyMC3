@@ -1,8 +1,6 @@
 # Statistical Rethinking with Python and PyMC3
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Statistical-Rethinking-with-Python-and-PyMC3/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Launch in Azure](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/aloctavodia/Statistical-Rethinking-with-Python-and-PyMC3) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/aloctavodia/Statistical-Rethinking-with-Python-and-PyMC3/master)
-
-
+**This repository has been deprecated in favour of this [one](https://github.com/pymc-devs/resources/tree/master/Rethinking), please check that repository for updates, for opening issues or sending pull requests** 
 
 [Statistical Rethinking](http://xcelab.net/rm/statistical-rethinking/) is an incredible good introductory book to Bayesian Statistics, its follows a _Jaynesian_ and practical approach with very good examples and clear explanations.
 
@@ -14,11 +12,7 @@ In this repository we ported the codes ([originally in R and Stan](https://githu
 
 ## Contributing
 
-All contributions are welcome!
-
-Feel free to send PR to fix errors, improve the code or made comments that could help the user of this repository and readers of the book.
-
-You can also join the discussion on [Gitter](https://gitter.im/Statistical-Rethinking-with-Python-and-PyMC3/Lobby)
+If you want to contribute please, send your pull request to [this](https://github.com/pymc-devs/resources/tree/master/Rethinking). All contributions are welcome!
 
 ## Installing the dependencies
 
