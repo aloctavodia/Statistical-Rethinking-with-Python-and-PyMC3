@@ -1,6 +1,6 @@
 # Statistical Rethinking with Python and PyMC3
 
-** This repository has been deprecated in favour of this [one](https://github.com/pymc-devs/resources/tree/master/Rethinking), please check that repository for updates, for opening issues or sending pull requests** 
+**This repository has been deprecated in favour of this [one](https://github.com/pymc-devs/resources/tree/master/Rethinking), please check that repository for updates, for opening issues or sending pull requests** 
 
 [Statistical Rethinking](http://xcelab.net/rm/statistical-rethinking/) is an incredible good introductory book to Bayesian Statistics, its follows a _Jaynesian_ and practical approach with very good examples and clear explanations.
 
